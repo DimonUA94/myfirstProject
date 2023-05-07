@@ -1,0 +1,1 @@
+f.close()	count-=1	print(lines[id])	id=count-1for id, item in enumerate(lines):count=len(lines)print(len(lines))lines = [line.rstrip('\n') for line in lines]lines = f.readlines()  sum+=1for i in range(1,13):sum=0f=open("print_2.py", "r")	import sys
